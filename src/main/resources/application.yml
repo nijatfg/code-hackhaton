@@ -2,8 +2,8 @@ spring:
   application:
     name: code-hackathon-app
   datasource:
-    password: qpEUnOGaLjKBTHxjvitDsQaHDpgftUUa
-    url: jdbc:postgresql://roundhouse.proxy.rlwy.net:24648/railway
+    password: YkWFnbmBMsUsePLnaoqaqvJjMIVZVXsV
+    url: jdbc:postgresql://postgres.railway.internal:5432/railway
     username: postgres
   jpa:
     hibernate:
